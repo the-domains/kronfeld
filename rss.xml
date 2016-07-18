@@ -4,7 +4,7 @@
         <description><![CDATA[Kronfeld]]></description>
         <link>https://thegrid.ai/kronfeld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 13:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 13:17:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kronfeld/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#dreads]]></title>
@@ -54,6 +54,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc5e1da-b5dd-4a83-a23e-db86535cf14f.jpg</link>
             <guid isPermaLink="false">b51e19d8-e4c0-466e-864f-e3e7622fd9b7</guid>
             <pubDate>Mon, 18 Jul 2016 13:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#thefreaks]]></title>
+            <description><![CDATA[<article><h1>#thefreaks</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bc23f48-b5d8-43c8-900d-51f68a1acd87.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bc23f48-b5d8-43c8-900d-51f68a1acd87.jpg</link>
+            <guid isPermaLink="false">aa841a88-26fe-44cb-92d9-094ce68673ec</guid>
+            <pubDate>Mon, 18 Jul 2016 13:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
