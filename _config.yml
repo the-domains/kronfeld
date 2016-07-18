@@ -1,0 +1,14 @@
+layout_spectrum: 0.4025341090746224
+typography_spectrum: 0.5983005890157074
+color:
+  brandStrength: 0.4077924017328769
+  lightness: 0.6388189541175961
+  saturation: 0.8421385088004172
+  rhythmicContrast: 0.8259561657905579
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Kronfeld
